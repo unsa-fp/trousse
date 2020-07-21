@@ -17,5 +17,5 @@ function Menu(){
         });
     }
 }
-// Run
+// Allez, ça roule...
 window.onload = function() { new Menu(); };
